@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { navigation } from "../data/data";
-//import Logo from "../assets/img/logo-mappa.png"; <img className="h-14" src={Logo} alt="Logo pianeta" />
+import Logo from "../img/logo-planet.png"; 
 
 function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -10,12 +10,12 @@ function Navbar() {
   };
 
   return (
-    <nav className="bg-black shadow-lg fixed top-0 w-full z-10">
+    <nav className="bg-[#42977d] shadow-lg fixed top-0 w-full z-10">
       <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <div className="relative flex items-center justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="text-lg font-semibold text-gray-900">
-              logo che sta commentato sopra
+            <img className="h-14" src={Logo} alt="Logo pianeta" />
             </Link>
           </div>
 
