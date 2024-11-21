@@ -12,7 +12,7 @@ All'apertura del sito, gli utenti vengono accolti da una breve introduzione sul 
 
 ## Screenshot
 
-![Banner](https://github.com/mattiacaprioli/climate-dashboard/blob/main/src/assets/img/Screenshot-climate-dashboard.png)
+![Banner](https://github.com/miriamtruiolo/final-project-s2i/blob/main/src/img/preview.png)
 
 ## Tecnologie utilizzate
 
