@@ -83,6 +83,7 @@ function Navbar() {
               <Link
                 key={index}
                 to={item.to}
+                onClick={()=>setMenuOpen(false)}
                 className="text-white font-semibold hover:text-gray-400 block"
               >
                 {item.name}
