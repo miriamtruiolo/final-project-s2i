@@ -12,7 +12,7 @@ function Section() {
               Explore Environmental Data
             </h2>
             <p className="mt-2 text-gray-600">
-              Discover statistics on various environmental factors:
+            Explore data on different environmental factors:
             </p>
           </div>
 
