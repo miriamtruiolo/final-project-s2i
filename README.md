@@ -8,7 +8,7 @@ All'apertura del sito, gli utenti vengono accolti da una breve introduzione sul 
 
 ## Link Netlify
 
-[Climate App](https://climatedashboard.netlify.app/)
+[Climate App](https://climate-app-s2i.netlify.app/)
 
 ## Screenshot
 
