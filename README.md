@@ -19,7 +19,6 @@ All'apertura del sito, gli utenti vengono accolti da una breve introduzione sul 
 - HTML
 - CSS
 - Javascript
-- Typescript
 - Tailwindcss per lo stile
 - React
 - Axios
